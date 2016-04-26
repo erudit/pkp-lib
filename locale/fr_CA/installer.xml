@@ -69,4 +69,6 @@
 	<message key="installer.locale.maybeIncomplete">Les langues sélectionnées peuvent être incomplètes.</message>
 	<message key="installer.installParseFilterConfigFileError"><![CDATA[Détection des erreurs dans le fichier filtre de configuration <tt>{$file}</tt> ???]]></message>
 	<message key="installer.oaiSettings">Paramètres OAI</message>
+	<message key="installer.beacon">Balise</message>
+	<message key="installer.beacon.enable">Fournir un identifiant unique (ID) de site et un URL OAI base à PKP uniquement pour les besoins en statistique et les alertes de sécurité.</message>
 </locale>
